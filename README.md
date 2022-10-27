@@ -14,4 +14,4 @@ Model optimisation: [code](AlphabetSoupCharity_Optimization.ipynb)
 
 There is also a full write-up on the Neural Network Model, linked below.
 
-[Report](Model Report.docx)
+[Report](Model%20Report.docx)
